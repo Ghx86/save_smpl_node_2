@@ -1,5 +1,5 @@
 # save_smpl_node_2
-save_smpl_nodeの改装（+PKL出力）
+save_smpl_node（+PKL export)
 
 File to replace: save_smpl_node.py
 
